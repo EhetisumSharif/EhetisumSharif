@@ -18,7 +18,7 @@
 
 ### About Me
 
-Final-year CSE student at IUBAT and Full-Stack Developer focused on backend architecture and scalable web solutions. Actively looking for a Software Engineering Intern role to build impactful products.
+Final-year CSE student at IUBAT and Full-stack Developer who loves building scalable web apps and clean, reliable code. Currently looking for a Software Engineering Intern role to help create impactful products.
 
 ---
 
