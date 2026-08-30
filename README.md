@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ehetisum Sharif 👋</h1>
-<h3 align="center">Software Engineering Intern Applicant | Full-Stack & Backend Developer | CSE Student</h3>
+<h1 align="center">Hi there, I'm Ehetisum Sharif 👋</h1>
+<h3 align="center">Software Engineering Intern Applicant | Full-Stack & Backend Architect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ehetisum-sharif">
@@ -18,16 +18,16 @@
 
 ---
 
-### 👋 About Me
+### 💡 About Me
 
-* 🚀 **Software Engineering Intern Applicant** aiming to build scalable, high-impact systems at **Hishbe**.
-* 🎓 Final-year B.Sc. in Computer Science & Engineering student at **IUBAT** (International University of Business Agriculture and Technology) with a CGPA of 3.88.
-* 💻 Passionate about **Backend Architecture**, database persistence, and robust full-stack web engineering.
-* 🔬 Active academic researcher with international publications in **Elsevier** and **Springer**.
+* 🚀 **Target Role:** Actively seeking a **Software Engineering Intern** position to drive scalable solutions at **Hishbe**.
+* 🎓 **Academic Background:** Final-year B.Sc. in Computer Science & Engineering student at **IUBAT** (International University of Business Agriculture and Technology) with an ongoing CGPA of **3.88**[cite: 1, 5].
+* ⚙️ **Core Focus:** Specializing in robust backend infrastructure, relational database design, and modern web architectures.
+* 🔬 **Research & Publications:** Published author in international high-impact venues including **Elsevier** and **Springer**[cite: 5].
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🛠️ Technical Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -45,40 +45,40 @@
 
 ### 🚀 Featured Software Engineering Projects
 
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| 🧠 **AI Resume Analyser** | Engineered the robust backend infrastructure using EF Core and SQL Server for seamless data persistence and resume parsing workflows. | TypeScript, EF Core, SQL Server, Zustand, Tailwind CSS | [GitHub](https://github.com/EhetisumSharif) |
-| 🚗 **Car Auction POS System** | Built management modules for inventory entry, buying history tracking, and shipment logistics. | PHP, JavaScript, MySQL, HTML/CSS | [GitHub](https://github.com/EhetisumSharif) |
-| 🛍️ **Django E-Commerce Platform** | Developed scalable web architecture for product catalogs, shopping cart workflows, and checkout pipelines. | Python, Django, HTML/CSS | [GitHub](https://github.com/EhetisumSharif) |
-| 🩸 **Blood Bank Management System** | Designed an emergency web utility for real-time blood stock tracking and donor-recipient registrations. | PHP, MySQL, HTML/CSS | [GitHub](https://github.com/EhetisumSharif) |
+| Project | Core Backend / System Architecture | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **AI Resume Analyser**[cite: 5] | Engineered robust backend workflows and server-side architecture using EF Core and SQL Server for data persistence[cite: 5]. | TypeScript, EF Core, SQL Server, Zustand, Tailwind[cite: 5] | [View Repo](https://github.com/EhetisumSharif)[cite: 1] |
+| **Car Auction POS System**[cite: 5] | Developed multi-module inventory tracking, secure authentication, and shipment logistics management workflows[cite: 1, 5]. | PHP, JavaScript, MySQL, HTML/CSS[cite: 1, 5] | [View Repo](https://github.com/EhetisumSharif)[cite: 1] |
+| **Django E-Commerce Platform**[cite: 5] | Implemented scalable catalog routing, cart state management, and streamlined checkout pipelines[cite: 1, 5]. | Python, Django, HTML/CSS[cite: 1, 5] | [View Repo](https://github.com/EhetisumSharif)[cite: 1] |
+| **Blood Bank Management System**[cite: 5] | Built emergency database utilities for real-time blood stock tracking and donor-recipient registrations[cite: 1, 5]. | PHP, MySQL, HTML/CSS[cite: 1, 5] | [View Repo](https://github.com/EhetisumSharif)[cite: 1] |
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Metrics
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EhetisumSharif&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhetisumSharif&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EhetisumSharif&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhetisumSharif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhetisumSharif&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhetisumSharif&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔬 Research & Publications
+### 🔬 Academic Research & Publications
 
-- **Elsevier Publication:** Research published in *Energy and Buildings* ([View Article](https://www.sciencedirect.com/science/article/abs/pii/S0360132326004683)).
-- **Springer Chapter:** Research chapter published in *Springer Lecture Notes* ([View Chapter](https://link.springer.com/chapter/10.1007/978-981-95-8387-4_9)).
-
----
-
-### 🏆 Certifications & Training
-
-- ⚡ **RobomentBD:** Level 1 & Level 2 Certification in IoT and Robotics.
-- 🐍 **Stanford University:** Code in Place (Basic Python Online Course).
-- 🤝 **BYLC:** Graduate, BBLTJ 11 Program (Leadership).
+- **Elsevier Publication:** Published peer-reviewed research in *Energy and Buildings*[cite: 5]. ([View Article](https://www.sciencedirect.com/science/article/abs/pii/S0360132326004683)[cite: 2])
+- **Springer Chapter:** Published research chapter in *Springer Lecture Notes*[cite: 5]. ([View Chapter](https://link.springer.com/chapter/10.1007/978-981-95-8387-4_9)[cite: 3])
 
 ---
 
-<p align="center"><i>Thanks for visiting my GitHub profile! Let's build something amazing together.</i></p>
+### 🏆 Certifications & Leadership
+
+- **RobomentBD:** Level 1 & Level 2 Professional Certification in IoT and Robotics[cite: 4].
+- **Stanford University:** Code in Place (Basic Python Programming Course)[cite: 1, 4].
+- **BYLC:** Graduate, BBLTJ 11 Program (Leadership & Team Management)[cite: 1, 4].
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! Let's build something impactful together.</i></p>
