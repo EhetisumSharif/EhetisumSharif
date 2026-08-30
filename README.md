@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Ehetisum Sharif 👋</h1>
-<h3 align="center">Software Engineering Intern Applicant | Full-Stack & Backend Architect</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Hey,+I'm+Ehetisum+Sharif+👋;" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ehetisum-sharif">
+  <a href="https://www.linkedin.com/in/ehetisumsharif">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ehetisum@gmail.com">
@@ -18,67 +19,66 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
-* 🚀 **Target Role:** Actively seeking a **Software Engineering Intern** position to drive scalable solutions at **Hishbe**.
-* 🎓 **Academic Background:** Final-year B.Sc. in Computer Science & Engineering student at **IUBAT** (International University of Business Agriculture and Technology) with an ongoing CGPA of **3.88**[cite: 1, 5].
-* ⚙️ **Core Focus:** Specializing in robust backend infrastructure, relational database design, and modern web architectures.
-* 🔬 **Research & Publications:** Published author in international high-impact venues including **Elsevier** and **Springer**[cite: 5].
+Final-year CSE student at IUBAT and Full-Stack Developer focused on backend architecture and scalable web solutions. Actively looking for a Software Engineering Intern role to build impactful products.
 
 ---
 
-### 🛠️ Technical Arsenal
+### ⚡ Quick Info
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<table align="center">
+  <tr>
+    <td align="center"><b>Current Goal</b><br>Looking for an Internship</td>
+    <td align="center"><b>University</b><br>IUBAT (CSE, CGPA: 3.88)</td>
+    <td align="center"><b>Research</b><br>Published in Elsevier & Springer</td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,php,django,react,tailwind,sqlserver,mysql,git,github&perline=5" />
 </p>
 
 ---
 
-### 🚀 Featured Software Engineering Projects
+### 🚀 Things I've Built
 
-| Project | Core Backend / System Architecture | Tech Stack | Repository |
+| Project | What it does | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **AI Resume Analyser**[cite: 5] | Engineered robust backend workflows and server-side architecture using EF Core and SQL Server for data persistence[cite: 5]. | TypeScript, EF Core, SQL Server, Zustand, Tailwind[cite: 5] | [View Repo](https://github.com/EhetisumSharif)[cite: 1] |
-| **Car Auction POS System**[cite: 5] | Developed multi-module inventory tracking, secure authentication, and shipment logistics management workflows[cite: 1, 5]. | PHP, JavaScript, MySQL, HTML/CSS[cite: 1, 5] | [View Repo](https://github.com/EhetisumSharif)[cite: 1] |
-| **Django E-Commerce Platform**[cite: 5] | Implemented scalable catalog routing, cart state management, and streamlined checkout pipelines[cite: 1, 5]. | Python, Django, HTML/CSS[cite: 1, 5] | [View Repo](https://github.com/EhetisumSharif)[cite: 1] |
-| **Blood Bank Management System**[cite: 5] | Built emergency database utilities for real-time blood stock tracking and donor-recipient registrations[cite: 1, 5]. | PHP, MySQL, HTML/CSS[cite: 1, 5] | [View Repo](https://github.com/EhetisumSharif)[cite: 1] |
+| **AI Resume Analyser** | Handles backend logic, data persistence, and database workflows using EF Core and SQL Server. | TypeScript, EF Core, SQL Server, Zustand, Tailwind | [View Repo](https://github.com/EhetisumSharif/ai-resume-analyzer) |
+| **Car Auction POS System** | Manages car inventory, buying history, and shipping logistics. | PHP, JavaScript, MySQL, HTML/CSS | [View Repo](https://github.com/EhetisumSharif/Car-auction-pos-system) |
+| **Django E-Commerce Platform** | A web setup with product catalogs, shopping cart, and checkout flow. | Python, Django, HTML/CSS | [View Repo](https://github.com/EhetisumSharif/e-commerce) |
+| **Blood Bank Management System** | Keeps track of blood stock and manages donor-recipient details. | PHP, MySQL, HTML/CSS | [View Repo](https://github.com/EhetisumSharif/BBMS) |
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EhetisumSharif&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhetisumSharif&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhetisumSharif&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhetisumSharif&theme=tokyonight&hide_border=true" width="98%" />
 </p>
 
 ---
 
-### 🔬 Academic Research & Publications
+### 🔬 Research Papers
 
-- **Elsevier Publication:** Published peer-reviewed research in *Energy and Buildings*[cite: 5]. ([View Article](https://www.sciencedirect.com/science/article/abs/pii/S0360132326004683)[cite: 2])
-- **Springer Chapter:** Published research chapter in *Springer Lecture Notes*[cite: 5]. ([View Chapter](https://link.springer.com/chapter/10.1007/978-981-95-8387-4_9)[cite: 3])
-
----
-
-### 🏆 Certifications & Leadership
-
-- **RobomentBD:** Level 1 & Level 2 Professional Certification in IoT and Robotics[cite: 4].
-- **Stanford University:** Code in Place (Basic Python Programming Course)[cite: 1, 4].
-- **BYLC:** Graduate, BBLTJ 11 Program (Leadership & Team Management)[cite: 1, 4].
+- **Elsevier:** Research published in *Energy and Buildings*. ([View Article](https://www.sciencedirect.com/science/article/abs/pii/S0360132326004683))
+- **Springer:** Research chapter published in *Springer Lecture Notes*. ([View Chapter](https://link.springer.com/chapter/10.1007/978-981-95-8387-4_9))
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! Let's build something impactful together.</i></p>
+### 🏆 Certifications & Training
+
+- **RobomentBD:** Completed Level 1 & Level 2 in IoT and Robotics.
+- **Stanford University:** Code in Place (Python Basics).
+- **BYLC:** BBLTJ 11 Program Graduate (Leadership & Teamwork).
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
